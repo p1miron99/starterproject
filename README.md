@@ -8,4 +8,4 @@ Goals for this repo:
 
 3) Understand pull requests and the like  
 
-4) Make a program that does something interesting.    
+4) Attempt to do all contrast mining coding here.
